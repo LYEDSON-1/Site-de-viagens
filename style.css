@@ -1,5 +1,9 @@
 
 
+header{
+    background-color: #26ddeafb;
+}
+
 header p{
     color: #ffffffff;
 }
@@ -20,15 +24,25 @@ h2{
     font-weight: 600;
 }
 
+h5 {
+    font-size: medium;
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 1px rgb(202, 215, 220);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
 .carousel.caption h5{
     font-size: 80px;
-    color:#ffc107;
+    color:#26ddeafb;
     text-shadow: 2px 2px black;
 
 }
 
 body{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
- 
+footer{
+   background-color:#26ddeafb ;
+}
