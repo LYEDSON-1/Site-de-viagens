@@ -46,9 +46,14 @@ body{
 
 footer{
    background-color:#26ddeafb ;
+   width: auto;
 }
 
-img {
-    width: auto;
-    right: 50%;
-}
+
+@font-face {
+    font-family: minhaFonte;
+    src: url(Fonte/Lemands.otf);
+  }
+  body{
+    font-family:minhaFonte ;
+  }
