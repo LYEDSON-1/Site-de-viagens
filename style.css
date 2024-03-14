@@ -1,7 +1,7 @@
 
 
 header{
-    background-color: #26ddeafb;
+    background-color: #F2EB8D;
 }
 
 header p{
@@ -40,13 +40,25 @@ h5 {
 
 }
 
-body{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+.container-fluid {
+    color: #0A1626;
+    
 }
+
+.internacional{
+    background-color: #F2ECCE;
+}
+
+
+body{
+   font-size: 19px;
+ 
+}
+
 
 footer{
     
-    color: #26ddeafb;
+    color: #022859;
 }
 
 
