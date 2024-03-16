@@ -8,6 +8,15 @@ header p{
     color: #ffffffff;
 }
 
+#carouselExampleFade{
+   padding-block: 6px;
+   background-color: #26ddeafb;
+   border-bottom-left-radius: 1%;
+   border-bottom-right-radius: 1%;
+   
+}
+
+
 
 h1{
     font-size: 55px;
