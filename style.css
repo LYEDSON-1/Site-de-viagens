@@ -1,7 +1,7 @@
 
 
 header{
-    background-color: #4c18f8;
+    background-color: #41B0E8;
    
 }
 
@@ -69,10 +69,13 @@ body{
 
 
 footer{
-    background-color: #4c18f8;
+    background-color: #41B0E8;
     font-size: small;
 }
-
+ #p{
+    color: #fff;
+    
+ }
 
 @font-face {
     font-family: minhaFonte;
