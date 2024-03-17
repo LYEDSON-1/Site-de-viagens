@@ -1,20 +1,25 @@
 
 
 header{
-    background-color: #26ddea;
+    background-color: #4c18f8;
+   
 }
 
 header p{
     color: #ffffffff;
 }
 
+
+
 #carouselExampleFade{
-   padding-block: 6px;
-   background-color: #26ddea;
+   padding-block: 5px;
+   background-color: #4c18f8;
    border-bottom-left-radius: 1%;
    border-bottom-right-radius: 1%;
    
 }
+
+
 
 
 
@@ -27,24 +32,24 @@ h1{
 }
 
 h2{
-    font-size: 24px;
+    font-size: 25px;
     text-transform: uppercase;
-    color: #303030;
+    color: #643D3D;
     font-weight: 600;
 }
 
 h5 {
     font-size:medium;
-    color: rgb(11, 11, 11);
-    text-shadow: 1px 1px rgb(241, 240, 240);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    text-shadow: 0px 0px rgb(0, 0, 0);
+   
   
    
 }
 
 .carousel.caption h5{
     font-size: 40px;
-    color:#26ddeafb;
+    color:#f1f6f6fb;
     text-shadow: 2px 2px black;
 
 }
