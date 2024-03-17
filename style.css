@@ -12,7 +12,7 @@ header p{
 
 
 #carouselExampleFade{
-   padding-block: 5px;
+   padding-block: 6px;
    background-color: #4c18f8;
    border-bottom-left-radius: 1%;
    border-bottom-right-radius: 1%;
@@ -41,9 +41,7 @@ h2{
 h5 {
     font-size:medium;
     color: rgb(0, 0, 0);
-    text-shadow: 0px 0px rgb(0, 0, 0);
-   
-  
+    text-shadow: px 0px rgb(0, 0, 0);
    
 }
 
@@ -71,8 +69,7 @@ body{
 
 
 footer{
-    
-    color: #022859;
+    background-color: #4c18f8;
 }
 
 
