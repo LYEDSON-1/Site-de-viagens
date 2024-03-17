@@ -11,7 +11,7 @@ header p{
 
 
 
-#carouselExampleFade{
+*\#carouselExampleFade{
    padding-block: 6px;
    background-color: #4c18f8;
    border-bottom-left-radius: 1%;
