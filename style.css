@@ -58,12 +58,12 @@ h5 {
 }
 
 .internacional{
-    background-color: #F2ECCE;
+    background-color: #6499a645;
 }
 
 
 body{
-   font-size: 19px;
+   background-color: rgba(202, 200, 198, 0.423);
  
 }
 
@@ -76,6 +76,8 @@ footer{
     color: #fff;
     
  }
+
+ 
 
 @font-face {
     font-family: minhaFonte;
