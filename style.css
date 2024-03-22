@@ -21,8 +21,6 @@ header p{
 
 
 
-
-
 h1{
     font-size: 55px;
     color:#303030;
@@ -36,6 +34,10 @@ h2{
     text-transform: uppercase;
     color: #060606;
     font-weight: 600;
+}
+
+h3{
+    text-align: center;
 }
 
 h5 {
