@@ -101,7 +101,7 @@ footer{
  }
 
  p{
-    text-decoration: wavy;
+    padding: 10px;
  }
 
 @font-face {
