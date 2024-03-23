@@ -34,20 +34,38 @@ h2{
     text-transform: uppercase;
     color: #060606;
     font-weight: 600;
+    text-align: center;
 }
 
 h3{
     text-align: center;
 }
 
+h4{
+    font-size: 20px;
+    color: #000000;
+    font-weight: 400;
+    text-align: center;
+}
+
 h5 {
-    font-size:medium;
+
     color: rgb(0, 0, 0);
-    text-shadow: px 0px rgb(0, 0, 0);
+    
    
 }
 
+h6{
+    font-size: 20px;
+    color: #000000;
+    padding: 15px;
+    text-align: lef;
+    font-style: italic;
+}
 
+.termos{
+    text-align: center;
+}
 
 .carousel.caption h5{
     font-size: 40px;
@@ -62,7 +80,7 @@ h5 {
 }
 
 .internacional{
-    background-color: #6499a645;
+    background-color: #41b0e88e;
 }
 
 
